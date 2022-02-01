@@ -1,3 +1,7 @@
+#I used https://www.delftstack.com/howto/python/python-change-dictionary-value/#:~:text=Change%20Dictionary%20Values%20in%20Python%20Using%20the%20for,value%20by%20assigning%20a%20new%20value%20to%20it.
+#to learn the update method for dictionaries
+
+
 #function to combine common elements of 2 dictionaries
 def get_combined_dict(my_dict1,my_dict2):
     new_dict = {}
